@@ -34,8 +34,7 @@ My name is J.D. and I'm someone looking to learn the world of web development! F
       Material UI
     </td>
     <td>
-      Node.js <br />
-      Express <br />
+      Node.js w/ Express <br />
       MongoDB <br />
       PostgreSQL
     </td>
