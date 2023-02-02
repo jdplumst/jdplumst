@@ -29,12 +29,12 @@ My name is J.D. and I'm someone looking to learn the world of web development! F
  </tr>
  <tr>
     <td>
-      React w/ TypeScript <br />
+      React <br />
       TailwindCSS <br />
       Material UI
     </td>
     <td>
-      Node.js w/ TypeScript <br />
+      Node.js <br />
       Express <br />
       MongoDB <br />
       PostgreSQL
