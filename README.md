@@ -31,7 +31,7 @@ My name is J.D. and I'm someone looking to learn the world of web development! F
     <td>
       React w/ TypeScript <br />
       TailwindCSS <br />
-      Material Ui
+      Material UI
     </td>
     <td>
       Node.js w/ TypeScript <br />
