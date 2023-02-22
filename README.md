@@ -19,7 +19,7 @@ My name is J.D. and I'm someone looking to learn the world of web development! F
 
 🔭 I’m currently working on a Social Network Website. You can find the repository for the frontend code [here](https://github.com/jdplumst/social-network-frontend) and the repository for the backend code [here](https://github.com/jdplumst/social-network-backend).
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
