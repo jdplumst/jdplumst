@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is J.D. and I'm someone looking to learn the world of web development! Feel free to check out my repositories and offer and any critiques of my work!
 
-🔭 I recently created an app called PokéZoo where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
+🔭 I recently created an app called [PokéZoo](https://pokezoo.vercel.app/) where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
 
 🔭 I’m currently working on a Social Network Website built with React and Express. You can find the repository for the frontend code [here](https://github.com/jdplumst/social-network-frontend) and the repository for the backend code [here](https://github.com/jdplumst/social-network-backend).
 
