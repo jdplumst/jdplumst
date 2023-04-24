@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 My name is J.D. and I'm someone looking to learn the world of web development! Feel free to check out my repositories and offer and any critiques of my work!
 
-🔭 I’m currently working on a Social Network Website built with React and Express. You can find the repository for the frontend code [here](https://github.com/jdplumst/social-network-frontend) and the repository for the backend code [here](https://github.com/jdplumst/social-network-backend).
+🔭 I recently created an app called PokéZoo where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
 
-🔭 I'm currently working on an app called PokéZoo where users can collect Pokémon to gain points which they can use to increase their collection. This app is being built with Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo).
+🔭 I’m currently working on a Social Network Website built with React and Express. You can find the repository for the frontend code [here](https://github.com/jdplumst/social-network-frontend) and the repository for the backend code [here](https://github.com/jdplumst/social-network-backend).
 
 ### Languages and Tools
 <p align="left"> 
@@ -33,7 +33,8 @@ My name is J.D. and I'm someone looking to learn the world of web development! F
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" title="Material UI"/></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" title="Node.js" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" title="Express.js" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" title="MongoDB" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" title="PostgreSQL" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" title="MongoDB" /></a> 
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" title="Prisma" /></a>  
 </p>
