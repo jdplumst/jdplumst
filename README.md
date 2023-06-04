@@ -19,6 +19,8 @@ My name is J.D. and I'm someone learning and exploring the world of web developm
 
 🔭 I recently created an app called [PokéZoo](https://pokezoo.vercel.app/) where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with React and Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
 
+🔭 I’m currently working on a Budget App with a React, TypeScript and Next.js frontend and a C# and ASP.NET backend. You can find the frontend repository [here](https://github.com/jdplumst/budget-app) and the backend repository [here](https://github.com/jdplumst/budget-app-server).
+
 🔭 I’m currently working on a Social Network Website built with Next.js and GraphQL. You can find the repository [here](https://github.com/jdplumst/social-network).
 
 <!-- ### Languages and Tools
