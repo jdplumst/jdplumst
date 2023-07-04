@@ -31,7 +31,7 @@ My name is J.D. and I'm someone learning and exploring the world of web developm
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nextjs,graphql,postman)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,planetscale,supabase)](https://skillicons.dev)
