@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 My name is J.D. and I'm someone learning and exploring the world of web development! Feel free to check out my repositories and offer and any critiques of my work!
 
-🔭 I recently created an app called [PokéZoo](https://pokezoo.vercel.app/) where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with React and Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
+Check out my CLI tool [create-jd-app](https://github.com/jdplumst/create-jaydee-app) which you can use to quickly start up a TypeScript project using the tools that I like to use.
+
+🔭 I created an app called [PokéZoo](https://pokezoo.vercel.app/) where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with React and Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
 
 🔭 I recently built a [Budget App](https://budget-app-coral.vercel.app/) with a React, TypeScript and Next.js frontend and a C# and ASP.NET backend. You can find the frontend repository [here](https://github.com/jdplumst/budget-app) and the backend repository [here](https://github.com/jdplumst/budget-app-server).
 
