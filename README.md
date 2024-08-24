@@ -23,8 +23,11 @@ Check out my CLI tool [create-jaydee-app](https://github.com/jdplumst/create-jay
 
 🔭 I recently built a [Budget App](https://budget-app-coral.vercel.app/) with a React, TypeScript and Next.js frontend and a C# and ASP.NET backend. You can find the frontend repository [here](https://github.com/jdplumst/budget-app) and the backend repository [here](https://github.com/jdplumst/budget-app-server).
 
-🔭 I’m currently working on a Primal API implemented as both a RESTful API and a GraphQL API using C# and Hot Chocolate. You can find the repository [here](https://github.com/jdplumst/primal-api).
+🔭 I’m currently working on a Dota 2 Stats Tracker with a React Vite frontend and a Golang backend. You can find the repository [here](https://github.com/jdplumst/dota2-stats-tracker).
 
+<!--
+🔭 I’m currently working on a Primal API implemented as both a RESTful API and a GraphQL API using C# and Hot Chocolate. You can find the repository [here](https://github.com/jdplumst/primal-api).
+-->
 <!-- ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,react,nextjs,dotnet,nodejs,express,tailwind,materialui,postgres,mysql,mongodb,prisma)](https://skillicons.dev)
  -->
