@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is J.D. and I'm someone learning and exploring the world of software development! I'm an enjoyer of TypeScript, Go, C# and Python. Feel free to check out my repositories!
 
+Check out my [portfolio](https://jeremiahplumstead.vercel.app/)!
+
 🔭 I created an app called [PokéZoo](https://pokezoo.vercel.app/) where users can collect Pokémon to gain points which they can use to increase their collection. This app was built with React and Next.js and the code can be found here [here](https://github.com/jdplumst/pokezoo). Constant updates are being made for this app.
 
 🔭 I built a [Budget App](https://budget-app-coral.vercel.app/) with a React, TypeScript and Next.js frontend and a C# and ASP.NET backend. You can find the frontend repository [here](https://github.com/jdplumst/budget-app) and the backend repository [here](https://github.com/jdplumst/budget-app-server).
